@@ -1,4 +1,4 @@
-# Animacoes-Part1
+# Animações - Part1
 Primeiro Repositório para dar inicio aos próximos, com a intenção de praticar o HTML e o CSS, do básico ao avançado.
 
 # Representação da primeira animação 
